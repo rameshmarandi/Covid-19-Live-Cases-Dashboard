@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Covid-19-Live-Cases-Dashboard/static/css/main.b2fff130.chunk.css",
+    "main.js": "/Covid-19-Live-Cases-Dashboard/static/js/main.176be20c.chunk.js",
+    "main.js.map": "/Covid-19-Live-Cases-Dashboard/static/js/main.176be20c.chunk.js.map",
+    "runtime-main.js": "/Covid-19-Live-Cases-Dashboard/static/js/runtime-main.73e5af3e.js",
+    "runtime-main.js.map": "/Covid-19-Live-Cases-Dashboard/static/js/runtime-main.73e5af3e.js.map",
+    "static/js/2.8feab824.chunk.js": "/Covid-19-Live-Cases-Dashboard/static/js/2.8feab824.chunk.js",
+    "static/js/2.8feab824.chunk.js.map": "/Covid-19-Live-Cases-Dashboard/static/js/2.8feab824.chunk.js.map",
+    "static/js/3.edad1799.chunk.js": "/Covid-19-Live-Cases-Dashboard/static/js/3.edad1799.chunk.js",
+    "static/js/3.edad1799.chunk.js.map": "/Covid-19-Live-Cases-Dashboard/static/js/3.edad1799.chunk.js.map",
+    "index.html": "/Covid-19-Live-Cases-Dashboard/index.html",
+    "static/css/main.b2fff130.chunk.css.map": "/Covid-19-Live-Cases-Dashboard/static/css/main.b2fff130.chunk.css.map",
+    "static/js/2.8feab824.chunk.js.LICENSE.txt": "/Covid-19-Live-Cases-Dashboard/static/js/2.8feab824.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73e5af3e.js",
+    "static/js/2.8feab824.chunk.js",
+    "static/css/main.b2fff130.chunk.css",
+    "static/js/main.176be20c.chunk.js"
+  ]
+}
